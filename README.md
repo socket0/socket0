@@ -40,6 +40,10 @@ I make machines do things. Terrible things. I have been doing this since around 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
+## Projects
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f2c68ee2-dafa-4574-98df-b23eb68d384a/deploy-status)](https://app.netlify.com/sites/thunderous-begonia-5c9e85/deploys)
+
 ## ❤️❤️❤️
 
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
